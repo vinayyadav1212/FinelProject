@@ -1,0 +1,38 @@
+.topHeader{
+   min-height: 40px;
+    background-color:#365486 !important;
+    color: #DCF2F1;
+}
+/* a{
+    color: rgb(56, 15, 181);
+} */
+.nab1{
+    background-color:#7FC7D9;
+    height: 70px;
+}
+.navbar-brand img{
+    height: 100%;
+    width: 100%;
+}
+.nav-link{
+    color:whitesmoke;
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    color: blueviolet;
+}
+.carousel-item img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.yy img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.ck{
+    border: .1em inset rgb(162, 201, 249);
+    border-radius: 10px;
+    
+}
